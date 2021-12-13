@@ -17,7 +17,7 @@ hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
 kiwisolver==1.1.0
-lxml==4.1.1
+lxml==4.6.5
 matplotlib==3.1.0
 numpy==1.16.4
 opencv-python==4.1.0.25
